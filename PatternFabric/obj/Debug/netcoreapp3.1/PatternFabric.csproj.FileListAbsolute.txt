@@ -1,0 +1,13 @@
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\bin\Debug\netcoreapp3.1\PatternFabric.exe
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\bin\Debug\netcoreapp3.1\PatternFabric.deps.json
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\bin\Debug\netcoreapp3.1\PatternFabric.runtimeconfig.json
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\bin\Debug\netcoreapp3.1\PatternFabric.runtimeconfig.dev.json
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\bin\Debug\netcoreapp3.1\PatternFabric.dll
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\bin\Debug\netcoreapp3.1\PatternFabric.pdb
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\obj\Debug\netcoreapp3.1\PatternFabric.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\obj\Debug\netcoreapp3.1\PatternFabric.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\obj\Debug\netcoreapp3.1\PatternFabric.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\obj\Debug\netcoreapp3.1\PatternFabric.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\obj\Debug\netcoreapp3.1\PatternFabric.dll
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\obj\Debug\netcoreapp3.1\PatternFabric.pdb
+C:\Users\Алексей\Desktop\Patterns\PatternFabric\obj\Debug\netcoreapp3.1\PatternFabric.genruntimeconfig.cache
